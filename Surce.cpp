@@ -4,8 +4,8 @@ int main()
 {
 	setlocale(LC_ALL, "Rus");
 	using namespace std;
-	cout << "Текстовая строка\n";
-	cout << "Еще одна текстовая строка\n";
+	cout << "Hello World\n";
+	cout << "Hello World\n";
 	cin.get();
 	cin.get();
 	return 0;
