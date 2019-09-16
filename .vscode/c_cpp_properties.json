@@ -3,7 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "d:\source\Straustroup_tasks\std_lib_facilities.h"
             ],
             "defines": [
                 "_DEBUG",

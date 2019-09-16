@@ -1,5 +1,5 @@
-//#include "std_lib_facilities.h"
-#include <iostream>
+#include "std_lib_facilities.h"
+//#include <iostream>
 int main()
 {
 	setlocale(LC_ALL, "Rus");
