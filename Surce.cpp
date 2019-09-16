@@ -3,6 +3,7 @@ int main()
 {
 	setlocale(LC_ALL, "Rus");
 	cout << "Текстовая строка\n";
+	cout << "Еще одна текстовая строка\n";
 	cin.get();
 	cin.get();
 	return 0;
