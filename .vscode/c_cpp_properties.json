@@ -3,7 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "d:\source\Straustroup_tasks\std_lib_facilities.h"
+                "C:/Users/vovtshik/Desktop/github-for-behinners/std_lib_facilities.h"
             ],
             "defines": [
                 "_DEBUG",
